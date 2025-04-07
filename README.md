@@ -1,7 +1,7 @@
 # Variational Autoencoder & Conditional Variational Autoenoder on MNIST
 
 > [!NOTE]  
-> Updated Implementation of VAE & CVAE on MNIST using Latest PyTorch!
+> 2025-04-07 Updated Implementation of VAE & CVAE on MNIST using Latest PyTorch!
 
 VAE paper: [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 
